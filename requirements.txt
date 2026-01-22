@@ -1,5 +1,6 @@
 streamlit
-polars
-plotly
 firebase-admin
 google-cloud-firestore
+polars
+plotly
+pandas
